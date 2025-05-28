@@ -1,0 +1,7 @@
+files:
+- main.swift
+- IRReceiver.swift
+- Servo.swift
+settings:
+  INCLUDE_PRINTF_FLT: 'yes'
+  MISSING_RUNTIME_SHOW_WARNING: 'yes'
